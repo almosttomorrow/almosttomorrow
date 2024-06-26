@@ -2,15 +2,15 @@
 
 🔭 **Currently Working On:**
 - Quantum-resistant messaging prototypes using post-quantum cryptography (PQC) and AES.
-- AI and LLMs projects for use in financial services.
+- Applications of federated learning & homomorphic encryption in privacy-preserving AI.
 
 🌱 **Learning and Exploring:**
 - Advanced cryptographic techniques to secure data from quantum.
-- Applications of federated learning & homomorphic encryption in privacy-preserving AI.
+- AI projects for use in financial services.
 
 💡 **Interested In:**
-- Artificial Intelligence & Large Language Models (LLMs)
 - How people use technology in innovative and impactful ways
+- Artificial Intelligence & Large Language Models (LLMs)
 - Building fast prototypes of frontier technologies to prove their potential
 
 📚 **Education Advocate:**
