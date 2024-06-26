@@ -2,14 +2,14 @@
 
 🔭 **Currently Working On:**
 - Quantum-resistant messaging prototypes using post-quantum cryptography (PQC) and AES.
-- AI and LLMs projects to push the boundaries of what’s possible with machine learning.
+- AI and LLMs projects for use in financial services.
 
 🌱 **Learning and Exploring:**
-- Advanced cryptographic techniques to secure data in the quantum era.
-- Applications of federated learning in privacy-preserving AI.
+- Advanced cryptographic techniques to secure data from quantum.
+- Applications of federated learning & homomorphic encryption in privacy-preserving AI.
 
 💡 **Interested In:**
-- Artificial Intelligence and Large Language Models (LLMs)
+- Artificial Intelligence & Large Language Models (LLMs)
 - How people use technology in innovative and impactful ways
 - Building fast prototypes of frontier technologies to prove their potential
 
@@ -25,4 +25,4 @@
 ---
 
 **Learn More:**
-- [Substack] (https://almosttomorrow.substack.com/)
+- [Substack](https://almosttomorrow.substack.com/)
