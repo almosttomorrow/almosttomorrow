@@ -1,4 +1,4 @@
-# Hey, i love learning & i make things that are hopfeully useful.
+Hey, i love learning & i make things that are hopfeully useful.
 
 ---
 
